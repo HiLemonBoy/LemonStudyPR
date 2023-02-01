@@ -9,3 +9,7 @@
  public int sun(int a, int b){
     return a + b;
  }
+
+ public int sun2(int a, int b){
+    return a + b;
+ }
