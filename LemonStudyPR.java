@@ -5,3 +5,11 @@
  public void test_pr(){
  	System.out.println("test_pr")
  }
+
+ public int sun(int a, int b){
+    return a + b;
+ }
+
+ public int sun2(int a, int b){
+    return a + b;
+ }
